@@ -50,10 +50,10 @@
       <!-- NodeJS -->
   <!-- </a> <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
   &nbsp; -->
-  <!-- HTML -->
+  <!-- HTML 
   <a title = "HTML" href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="HTML" width="40" /> </a>
   &nbsp;
-  <!-- CSS -->
+  <!-- CSS 
   <a title = "CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS" width="40" /> </a>
   &nbsp;
    <!-- Bootstrap -->
